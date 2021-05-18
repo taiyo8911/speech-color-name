@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(253, 253, 139);
+    color: black;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    font-size: 40px;
+}
+
+:hover.btn {
+    color: #0000ff;
+    cursor: pointer;
+}
+
+.mb {
+    margin-bottom: 80px;
+}
+
+.center {
+    text-align: center;
+}
